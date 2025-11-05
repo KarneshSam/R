@@ -1,2 +1,2 @@
 # R
-#Karnesh repository
+#Karnesh repositories
